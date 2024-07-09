@@ -1,0 +1,4 @@
+Number of live quokkas: 51
+Newborn quokkas: 15
+Dead quokkas: 0
+Total food supply: 300
